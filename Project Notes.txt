@@ -1,0 +1,2 @@
+Project Notes.
+1) Request Mapping annotation in method level.
